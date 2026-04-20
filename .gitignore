@@ -1,0 +1,27 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+env/
+ENV/
+
+.ipynb_checkpoints/
+
+models/*.pkl
+models/*.joblib
+
+
+# Output Files
+outputs/
+*.png
+*.jpg
+
+*.log
+
+
+.vscode/
+
+# Streamlit
+.streamlit/
